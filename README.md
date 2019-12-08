@@ -12,7 +12,9 @@ La liste est organisée par auteurs.
 
 
 
-<div id="auteurs_H" style="color: dodgerblue; font-weight: bold;">H</div>
+<div id="auteurs_H" style="color: dodgerblue; font-weight: bold;"></div>
+
+# H
 
 ![Plaidoyer pour l'arbre de Francis Hallé  - ISBN-13: 978-2742757121](assets/covers/hallé-plaidoyer.jpg)
 
@@ -36,7 +38,9 @@ La liste est organisée par auteurs.
 
 
 
-<div id="auteurs_J" style="color: dodgerblue; font-weight: bold;">J</div>
+<div id="auteurs_J" style="color: dodgerblue; font-weight: bold;"></div>
+
+# J
 
 ![Terre, l'histoire de notre planète de sa naissance à sa disparition de Michel Joye - ISBN-13: 978-2889152100](assets/covers/joye-terre.jpg)
 
@@ -44,7 +48,9 @@ La liste est organisée par auteurs.
 
 
 
-<div id="auteurs_M" style="color: dodgerblue; font-weight: bold;">M</div>
+<div id="auteurs_M" style="color: dodgerblue; font-weight: bold;"></div>
+
+# M
 
 ![Les trognes : L'arbre paysan aux mille usages de Dominique Mansion - ISBN-13: 978-2737381393](assets/covers/mansion-trognes.jpg)
 
@@ -52,7 +58,9 @@ La liste est organisée par auteurs.
 
 
 
-<div id="auteurs_P" style="color: dodgerblue; font-weight: bold;">P</div>
+<div id="auteurs_P" style="color: dodgerblue; font-weight: bold;"></div>
+
+# P
 
 ![Les paysans de Gâtine poitevine au XVIIIe siècle de Jacques Péret - ISBN-13: 978-2910919757](assets/covers/péret-paysans.jpg)
 
@@ -60,13 +68,17 @@ La liste est organisée par auteurs.
 
 
 
-<div id="auteurs_S" style="color: dodgerblue; font-weight: bold;">S</div>
+<div id="auteurs_S" style="color: dodgerblue; font-weight: bold;"></div>
+
+# S
 
 ![La Terre avant les dinosaures de Sébastien Steyer, Alain Bénéteau - ISBN-13: 978-2701142067](assets/covers/steyer-terre.jpg)
 
 La Terre avant les dinosaures de Sébastien Steyer, Alain Bénéteau - ISBN-13: 978-2701142067
 
-<div id="auteurs_T" style="color: dodgerblue; font-weight: bold;">T</div>
+<div id="auteurs_T" style="color: dodgerblue; font-weight: bold;"></div>
+
+# T
 
 ![Le champignon de la fin du monde de Anna Lowenhaupt TSING, Philippe PIGNARRE (Traduction) - ISBN-13: 978-2359251364](assets/covers/tsing-champignon.jpg)
 
