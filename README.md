@@ -82,7 +82,6 @@ Médecine traditionnelle chinoise - L'homme et ses symboles de Jean-Marc Kespi -
 
 **La Terre avant les dinosaures** de Sébastien Steyer, Alain Bénéteau - ISBN-13: 978-2701142067
 
-<div id="auteurs_T" style="color: dodgerblue; font-weight: bold;"></div>
 # T
 
 ![Le champignon de la fin du monde de Anna Lowenhaupt TSING - ISBN-13: 978-2359251364](assets/covers/tsing-champignon.jpg)
